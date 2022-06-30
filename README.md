@@ -1,4 +1,4 @@
-# DeepLGF: Deep Learning Framework for Predicting Drug-Drug Interactions Using Local-Global Information Based on Biological Knowledge Graph
+# A Biomedical Knowledge Graph based Method for Drug-drug Interactions Prediction through Combining Local and Global Features with Deep Neural Networks
 A deep learning-based DDIs predictor
 
 
@@ -9,12 +9,12 @@ This paper includes four datasets that DS1, DS2, D-DS3 and E-DS3 processed from 
 
 
 # Citation
-Zhong-Hao Ren, Chang-Qing Yu, Li-Ping Li, Zhu-Hong You, Yong-Jian Guan, Lu-Xiang Guo, Jie Pan, DeepLGF: Deep Learning Framework for Predicting Drug-Drug Interactions Using Local-Global Information Based on Biological Knowledge Graph 
+Zhong-Hao Ren, Zhu-Hong You, Chang-Qing Yu, Li-Ping Li, Yong-Jian Guan, Lu-Xiang Guo, Jie Pan, A Biomedical Knowledge Graph based Method for Drug-drug Interactions Prediction through Combining Local and Global Features with Deep Neural Networks 
 
 
 
 # Title
-DeepLGF: Deep Learning Framework for Predicting Drug-Drug Interactions Using Local-Global Information Based on Biological Knowledge Graph 
+A Biomedical Knowledge Graph based Method for Drug-drug Interactions Prediction through Combining Local and Global Features with Deep Neural Networks 
 
 # 
 
