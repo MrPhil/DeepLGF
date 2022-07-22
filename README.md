@@ -7,6 +7,9 @@ A deep learning-based DDIs predictor
 This paper includes four datasets that DS1, DS2, D-DS3 and E-DS3 processed from reference [1-3] . Each dataset file contains the three feature files and the results of proposed model.  Furthermore, There are examples of saving models each fold in the path of " '*dataset name*' /  '*method*.h5' ".
 
 
+# Requirements
+python==3.8.5 tensorflow-gpu==2.2.0 pandas==1.2.4 numpy==1.20.2 keras==2.4.3 gensim==4.0.1 tqdm==4.63.0 h5py==2.10.0
+
 
 # Citation
 Zhong-Hao Ren, Zhu-Hong You, Chang-Qing Yu, Li-Ping Li, Yong-Jian Guan, Lu-Xiang Guo, Jie Pan, A Biomedical Knowledge Graph based Method for Drug-drug Interactions Prediction through Combining Local and Global Features with Deep Neural Networks 
