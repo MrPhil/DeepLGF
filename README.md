@@ -12,7 +12,7 @@ python==3.8.5 tensorflow-gpu==2.2.0 pandas==1.2.4 numpy==1.20.2 keras==2.4.3 gen
 
 
 # Usage
-We provided the example to run our code in the fold of " 'example' /  'test.py' ". If there is any questions or needs, please contact me by leaving message.
+We provided the example to run our code in the fold of " 'example' /  'test.py' ". You should move the feature files into 'example' /  'representation/' " and run the " 'test.py' ". If there is any questions or needs, please contact me by leaving message.
 
 
 # Citation
